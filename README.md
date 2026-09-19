@@ -1,2 +1,3 @@
-This repository implements the architecture-centric safety requirements engineering framework proposed in the target paper, integrating STPA (System-Theoretic Process Analysis) hazard analysis and formal contract verification via Kind 2 model checker.
-The core industrial demonstration case is a standard CBTC (Communication-Based Train Control) subway signalling system. 
+This repository contains the artifacts and implementation for the paper: A Bi-Dimensional Safety Requirement Engineering Methodology Integrating STPA and Contract-Based Design.
+
+It provides a comprehensive, architecture-centric framework that seamlessly bridges hazard analysis and formal verification. By integrating System-Theoretic Process Analysis (STPA) with assume-guarantee contracts, the framework establishes a formally traceable chain from system-level hazards down to component implementations. The methodology is rigorously validated using the Kind 2 model checker on an industrial-scale demonstration case: a Communication-Based Train Control (CBTC) signaling system.
